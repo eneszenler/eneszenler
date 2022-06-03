@@ -1,6 +1,6 @@
 <img src="https://media3.giphy.com/media/24jCARL61FgeG5Oi9E/giphy.gif?cid=790b7611b9c58f735beebeecef82af90c595c0ec7ef31110&rid=giphy.gif&ct=g" align="right">
 
-<h1 align="left">Hi there, I'm Yusuf Enes <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1 align="left">Hi there, I'm Yusuf Enes <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50> </h1>
 <h3 align="left">A passionate Turkish software student in the field of front end who trying to improve yourself with the growing technology.
 </h2>
 
